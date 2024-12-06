@@ -110,8 +110,8 @@ You can update the list while script is running. Script will check for new value
 > ![](https://github.com/intellltech/solana-sniper-bot/blob/main/images/jupiter.png)
 
 ## Help 📮
-Discord: @intellltech
-Telegram: @intellltech
+- Discord: @intellltech
+- Telegram: @intellltech
 
 ## Disclaimer 🔍
 Use this script at your own risk. No financial advice.
